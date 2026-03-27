@@ -1,4 +1,4 @@
 # 1st-project
-my first repository
+Convert text to speech
 <br>
-owner - Anurag Singh Rajput
+Code by - Anurag Singh Rajput
